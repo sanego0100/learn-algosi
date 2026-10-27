@@ -1,2 +1,1 @@
-# learn-algosi
-# learn-algosi
+# learn-algorithms
